@@ -1,11 +1,16 @@
 # mikrotik-uefi
 
 Build MikroTik RouterOS CHR EFI Image!
+
 See [build.yml](.github/workflows/build.yml) for more.
+
 Download form [release](https://github.com/routeros-fans/mikrotik-uefi/releases).
 ---
+
 Сборка образов MikroTik RouterOS CHR с UEFI
+
 Подробнее в [build.yml](.github/workflows/build.yml).
+
 Загрузка образов в разделе [release](https://github.com/routeros-fans/mikrotik-uefi/releases).
 ---
 
