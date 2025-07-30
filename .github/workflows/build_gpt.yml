@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write # for release creation
 
-    name: Build ${{matrix.version}}
+    name: Build GPT images
 
     runs-on: ubuntu-latest
 
