@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write # for release creation
 
-    name: Build ${{matrix.version}}
+    name: Build images
 
     runs-on: ubuntu-latest
 
