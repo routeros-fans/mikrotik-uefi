@@ -48,7 +48,7 @@ jobs:
         run: |
           sudo -E apt update
           sudo -E apt -y install curl qemu-utils rsync unzip zip
-          sudo -E timedatectl set-timezone "Asia/Shanghai"
+          sudo -E timedatectl set-timezone "Europe/Moscow"
 
       - name: Load nbd module
         run: |
